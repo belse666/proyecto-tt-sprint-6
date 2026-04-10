@@ -91,25 +91,5 @@ Descripción de datos
 — Rating (ESRB)
 
 Es posible que los datos de 2016 estén incompletos.
-¿Cómo será evaluado mi proyecto?
 
-Lee atentamente estos criterios de evaluación de proyectos antes de empezar a trabajar.
-
-Esto es lo que buscan los revisores de proyecto cuando evalúan tu proyecto:
-
-    ¿Cómo describirías los problemas identificados en los datos?
-    ¿Cómo se prepara un dataset para el análisis?
-    ¿Cómo creas gráficos de distribución y cómo los explicas?
-    ¿Cómo calculas la desviación estándar y varianza?
-    ¿Formulas las hipótesis alternativas y nulas?
-    ¿Qué métodos aplicas a la hora de probarlos?
-    ¿Explicas los resultados de tus pruebas de hipótesis?
-    ¿Sigues la estructura del proyecto y mantienes tu código ordenado y comprensible?
-    ¿A qué conclusiones llegas?
-    ¿Has dejado comentarios claros y relevantes en cada paso?
-
-Todo lo que necesitas para completar este proyecto se encuentra en las hojas informativas y los resúmenes de los capítulos anteriores.
-
-¡Buena suerte!
-Una vez sea aprobado, no podrás realizar cambios.
 
